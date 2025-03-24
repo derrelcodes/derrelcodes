@@ -1,5 +1,6 @@
 ## Hi there I'm Derrel Immanuel 👋
 
+A motivated Computer Science student majoring in Cybersecurity. Currently looking for IT Security Internship opportunities.
 
 
 
